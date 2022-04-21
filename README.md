@@ -1,3 +1,1 @@
-# printf
-new printf project
-readme
+printf readme
